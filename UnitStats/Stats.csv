@@ -1,0 +1,14 @@
+,1
+BaseHP,100
+MaxHP,100
+CurrentHP,100
+BaseResource,100
+MaxResource,100
+CurrentResource,100
+Level,1
+AtkRange,125
+BaseAtkSpeed,0.7
+AtkSpeed,0.7
+BaseMoveSeed,350
+MoveSeed,350
+AttackDamage,20

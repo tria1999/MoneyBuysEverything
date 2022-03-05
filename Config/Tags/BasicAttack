@@ -1,0 +1,4 @@
+[/Script/GameplayTags.GameplayTagsList]
+GameplayTagList=(Tag="BasicAttack.Instant",DevComment="Basic Attack without projectile")
+GameplayTagList=(Tag="Interruptable",DevComment="")
+
